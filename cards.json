@@ -1,0 +1,259 @@
+[
+  {
+    "id": "1",
+    "title": "Jesus",
+    "color": "Blue",
+    "type": "Character Card",
+    "text": "Any time, as action, you can discard a card to give +1{Li} to this character.",
+    "cbs-attack": "3",
+    "cbs-armor": "1",
+    "cbs-life": "6"
+  },
+  {
+    "id": "2",
+    "title": "Gravos",
+    "color": "Blue",
+    "type": "Character Card",
+    "text": "Whenever this character is target of an action card, choose one: Receive +1{At}; Receive +1{Sh};",
+    "cbs-attack": "3",
+    "cbs-armor": "4",
+    "cbs-life": "2"
+  },
+  {
+    "id": "3",
+    "title": "Olive",
+    "color": "Grey",
+    "type": "Character Card",
+    "text": "Any time, as action, you can discard a card to give +1{At} to this character.",
+    "cbs-attack": "5",
+    "cbs-armor": "2",
+    "cbs-life": "3"
+  },
+  {
+    "id": "4",
+    "title": "Miros",
+    "color": "Red",
+    "type": "Character Card",
+    "text": "Whenever you use an opportunity card you can discard a card, and then draw a card.",
+    "cbs-attack": "4",
+    "cbs-armor": "3",
+    "cbs-life": "4"
+  },
+  {
+    "id": "5",
+    "title": "Salleon",
+    "color": "Yellow",
+    "type": "Character Card",
+    "text": "Whenever you counter an action you can draw a card.",
+    "cbs-attack": "4",
+    "cbs-armor": "1",
+    "cbs-life": "3"
+  },
+  {
+    "id": "6",
+    "title": "Driogos",
+    "color": "Yellow",
+    "type": "Character Card",
+    "text": "Whenever you draw a card of an action card, you draw an additional card of it.",
+    "cbs-attack": "2",
+    "cbs-armor": "4",
+    "cbs-life": "4"
+  },
+  {
+    "id": "7",
+    "title": "Eliaj",
+    "color": "Blue",
+    "type": "Character Card",
+    "text": "Whenever this character is target of a action card, choose one: Receive +1{At}; Receive +1{Li};",
+    "cbs-attack": "4",
+    "cbs-armor": "1",
+    "cbs-life": "5"
+  },
+  {
+    "id": "8",
+    "title": "Khastus",
+    "color": "Grey",
+    "type": "Character Card",
+    "text": "Any time, as an action, you can discard 1 cards to give +1 {At} and +1{Li} to this character.",
+    "cbs-attack": "3",
+    "cbs-armor": "4",
+    "cbs-life": "3"
+  },
+  {
+    "id": "9",
+    "title": "Serianna",
+    "color": "Red",
+    "type": "Character Card",
+    "text": "This cards color is red. Whenever you cast opportunity card, choose one: Receive +1{Sh}; Receive +1{Li};",
+    "cbs-attack": "1",
+    "cbs-armor": "3",
+    "cbs-life": "6"
+  },
+  {
+    "id": "10",
+    "title": "Galleon",
+    "color": "Yellow",
+    "type": "Character Card",
+    "text": "Any time, as action, you can discard a card to give +1{Sh} to this character.",
+    "cbs-attack": "1",
+    "cbs-armor": "6",
+    "cbs-life": "3"
+  },
+  {
+    "id": "11",
+    "title": "Barbosa",
+    "color": "Blue",
+    "type": "Character Card",
+    "text": "Any time, as action, you can discard a card to allow this character attack.",
+    "cbs-attack": "6",
+    "cbs-armor": "3",
+    "cbs-life": "2"
+  },
+  {
+    "id": "12",
+    "title": "Attack",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can attack with target character this turn. The damage is based on the character base status."
+  },
+  {
+    "id": "13",
+    "title": "Attack",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can attack with target character this turn. The damage is based on the character base status plus 2"
+  },
+  {
+    "id": "14",
+    "title": "Attack",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can attack with target character this turn. The damage is based on the character base status plus 4."
+  },
+  {
+    "id": "15",
+    "title": "Attack",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can attack with target character this turn. The damage is double of your character base status."
+  },
+  {
+    "id": "16",
+    "title": "Attack",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can attack with target character this turn. The damage is based on the character base status plus 10."
+  },
+  {
+    "id": "17",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can use armor of target character this turn. Your armor is based on the character base status."
+  },
+  {
+    "id": "18",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can use armor of target character this turn. Your armor is based on the character base status plus 2."
+  },
+  {
+    "id": "19",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can use armor of target character this turn. Your armor is based on the character base status plus 4."
+  },
+  {
+    "id": "20",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can use armor of target character this turn. Your armor is double of your character base status."
+  },
+  {
+    "id": "21",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can use armor of target character this turn. Your armor is based on the character base status plus 10."
+  },
+  {
+    "id": "22",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Your character life this turn is now your characters base status plus 2."
+  },
+  {
+    "id": "23",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Your character life this turn is now your characters base status plus 4."
+  },
+  {
+    "id": "24",
+    "title": "Defense",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Your character life this turn is now the double of your characters base status."
+  },
+  {
+    "id": "25",
+    "title": "Opportunity ",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Choose two- Draw 2 action cards; You can use 2 more actions this turn; Copy target action (you can choose new targets for the copy); You can attack and use armor with target character this turn."
+  },
+  {
+    "id": "26",
+    "title": "Opportunity",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Choose one- Draw 2 action cards; You can use 2 more actions this turn; Copy target action (you can choose new targets for the copy); You can attack and use armor with target character this turn."
+  },
+  {
+    "id": "27",
+    "title": "Opportunity",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Draw 2 action cards."
+  },
+  {
+    "id": "28",
+    "title": "Opportunity",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can use 2 more actions this turn."
+  },
+  {
+    "id": "29",
+    "title": "Opportunity",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Copy target action (you can choose new targets for the copy)."
+  },
+  {
+    "id": "30",
+    "title": "Opportunity",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "You can attack and use armor with target character this turn."
+  },
+  {
+    "id": "31",
+    "title": "Opportunity",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Counter target action."
+  },
+  {
+    "id": "32",
+    "title": "Opportunity",
+    "color": "Green",
+    "type": "Action Card",
+    "text": "Counter target action. Then draw a card"
+  }
+]

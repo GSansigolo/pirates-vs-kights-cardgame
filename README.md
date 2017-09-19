@@ -42,8 +42,3 @@ https://api.myjson.com/bins/16twzx
 
 ```
 
-## Exemples Pics:<br>
-![image](https://raw.githubusercontent.com/GSansigolo/Json-Cartas-Piratas-e-Cavaleiros/master/Cards%20Pic/Carta002.png)<br>
-![image](https://raw.githubusercontent.com/GSansigolo/Json-Cartas-Piratas-e-Cavaleiros/master/Cards%20Pic/Carta012.png)<br>
-
-

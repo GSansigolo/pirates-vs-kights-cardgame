@@ -14,7 +14,7 @@
     "title": "Gravos",
     "color": "Blue",
     "type": "Character Card",
-    "text": "Whenever this character is target of an action card, choose one: Receive +1{At}; Receive +1{Sh};",
+    "text": "Whenever this character is target of an action card, choose one: Receive +1{At} or Receive +1{Sh}",
     "cbs-attack": "3",
     "cbs-armor": "4",
     "cbs-life": "2"
@@ -64,7 +64,7 @@
     "title": "Eliaj",
     "color": "Blue",
     "type": "Character Card",
-    "text": "Whenever this character is target of a action card, choose one: Receive +1{At}; Receive +1{Li};",
+    "text": "Whenever this character is target of a action card, choose one: Receive +1{At} or Receive +1{Li};",
     "cbs-attack": "4",
     "cbs-armor": "1",
     "cbs-life": "5"
@@ -74,7 +74,7 @@
     "title": "Khastus",
     "color": "Grey",
     "type": "Character Card",
-    "text": "Any time, as an action, you can discard 1 cards to give +1 {At} and +1{Li} to this character.",
+    "text": "Any time, as an action, you can discard a cards to give +1 {At} and +1{Li} to this character.",
     "cbs-attack": "3",
     "cbs-armor": "4",
     "cbs-life": "3"
@@ -84,7 +84,7 @@
     "title": "Serianna",
     "color": "Red",
     "type": "Character Card",
-    "text": "This cards color is red. Whenever you cast opportunity card, choose one: Receive +1{Sh}; Receive +1{Li};",
+    "text": "Whenever you cast opportunity card, choose one: Receive +1{Sh} or Receive +1{Li}.",
     "cbs-attack": "1",
     "cbs-armor": "3",
     "cbs-life": "6"

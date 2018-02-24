@@ -1,0 +1,47 @@
+REGRAS 
+
+-Draft-
+
+Inicia-se  draft separando a pilha de cartas em quatro (3) pilhas de quatorze (14) cartas para cada um dos jogadores.
+
+Cada um dos jogadores pega uma das pilhas de quatorze (14) cartas e seleciona, de face para baixo, uma das cartas da pilha e passa para o lado oo restante da pilha.
+
+Assim que todas as cartas da pilha acabarem cada um dos jogadores pega mais uma pilha e repete o processo.
+
+Cada jogador termina o draft com uma pilha de quarenta e duas cartas.
+
+
+-Montagem-
+
+Cada jogador deve montar um deck de vinte (20) cartas com a pilha de quarenta e duas (42) cartas separada por ele no draft.
+
+Dicas: Monte um deck com 7 a 9 cartas personagens e 11 a 13 cartas de não personagem.
+
+ 
+-Jogo-
+
+Após decidir quem vai começar, cada jogador compra cinco (5) cartas de seu deck de vinte (20) cartas.
+
+Cada jogador pode escolher entre manter a mão ou dar um Mulligan e comprar uma carta a menos.
+
+Você inicia o jogo colocando da sua mão em jogo todos os cards de personagem da sua mão em jogo.
+
+Lembrando que só é possivel descer personagens no primeiro turno de jogo.
+
+Vence a partida o primeiro jogador que acabar com todos os personagens da mesa do oponente.
+
+Cada jogador inicia o turno comprando um carta.
+
+Todos os personagens, enquanto estão na mesa, possuem como status apenas vida.
+
+Para fazer o personagem atacar, basta que você descarte duas cartas da sua mão ou use uma carta que permita seu personagem atacar.
+
+Cada usuario pode usar apanas duas cartas por turno.
+
+Para ativar o escudo de um personagem seu controlador pode descarte duas cartas da sua mão ou use uma carta que permita seu personagem usar o escudo.
+
+No momento que um pesonagem usa o escudo, o valor referente ao mesmo, ampara o valor de dano dado pelo personagem do oponente.
+
+Para cada ação (uso de carta, ativação de habilidade e descarte) o oponente pode responder realizando outra ação.
+
+As respostas funcionam em forma de pilha, a primeira ação que entre é a primeira ação que é resolvida.

@@ -14,7 +14,7 @@
     "title": "Gravos",
     "color": "Blue",
     "type": "Character Card",
-    "text": "Whenever this character is target of an action card, choose one: Receive +1{At} or Receive +1{Sh}",
+    "text": "Whenever this character is target of an action card, choose one: Receive +1{At} or Receive +1{Sh}.",
     "cbs-attack": "3",
     "cbs-armor": "4",
     "cbs-life": "2"
@@ -64,7 +64,7 @@
     "title": "Eliaj",
     "color": "Blue",
     "type": "Character Card",
-    "text": "Whenever this character is target of a action card, choose one: Receive +1{At} or Receive +1{Li};",
+    "text": "Whenever this character is target of a action card, choose one: Receive +1{At} or Receive +1{Li}.",
     "cbs-attack": "4",
     "cbs-armor": "1",
     "cbs-life": "5"
@@ -202,7 +202,7 @@
   },
   {
     "id": "25",
-    "title": "Opportunity ",
+    "title": "Opportunity",
     "color": "Green",
     "type": "Action Card",
     "text": "Choose two- Draw 2 action cards; You can use 2 more actions this turn; Copy target action (you can choose new targets for the copy); You can attack and use armor with target character this turn."
@@ -254,6 +254,41 @@
     "title": "Opportunity",
     "color": "Green",
     "type": "Action Card",
-    "text": "Counter target action. Then draw a card"
-  }
+    "text": "Counter target action. Then draw a card."
+  },
+ {
+    "id": "33",
+    "title": "Draft",
+    "color": "Purple",
+    "type": "Draft Card",
+    "text": "Draft this card face up, if you do, you may choose to pick two cards this turn, skip your next pick. {This card don't have effect in the game}."
+  },
+  {
+    "id": "34",
+    "title": "Draft",
+    "color": "Purple",
+    "type": "Draft Card",
+    "text": "Draft this card face up, if you do, you may choose to  pick tree cards this turn, skip your next two pick. {This card don't have  effect in the game}."
+  },
+  {
+    "id": "35",
+    "title": "Draft",
+    "color": "Purple",
+    "type": "Draft Card",
+    "text": "Draft this card face up, if you do, you may draw a extra card in your first hand in the game.{This card don't have  effect in the game}."
+  },
+  {
+    "id": "36",
+    "title": "Discard",
+    "color": "Magenta",
+    "type": "Discard Card",
+    "text": "If you discard this card you may draw card."
+  },
+  {
+    "id": "37",
+    "title": "Discard",
+    "color": "Magenta",
+    "type": "Discard Card",
+    "text": "If you discard this card you may draw a extra card next turn."
+  }   
 ]

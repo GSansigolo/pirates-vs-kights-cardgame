@@ -1,18 +1,18 @@
 ## Pirates Vs Knights
-Created by **Gabriel Sansigolo**
+Created by **Gabriel Sansigolo**<br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/PRODUCTION.png?raw=true)<br>
-This project consists of the development of the Card Game call 'Pirates Vs Knights'. In this repository, you can find all files related to the non-digital game. Each card here has a high quality image and within the JSON, all data related to that card.<br>
+This project consists of the development of the Card Game call 'Pirates Vs Knights'. In this repository, you can find all files related to the non-digital game. Each card here has a high quality image and within the JSON, all data related to that card.<br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/CREATOR.png?raw=true)<br>
 **Gabriel Sansigolo** is a technologist in system analysis and development. Has technician degree in computing with emphasis on web design. Freelance colorist, comic book writer and editor of the Magazine 'Investida'. Currently works in the game The Last Wards and in the podcasts Esper Show and SDL Cast.<br>
 
 **Issuu:** https://issuu.com/gabsansigolo <br>
 **Artstation:** https://www.artstation.com/gsansigolo <br>
-**Twitter:** https://twitter.com/G_Sansigolo <br>
+**Twitter:** https://twitter.com/G_Sansigolo <br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)<br>
-## Exemples:<br>
+# Exemples:
 
 **Character Card:**
 ```

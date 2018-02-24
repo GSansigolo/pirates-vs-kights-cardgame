@@ -1,5 +1,3 @@
-![image](https://raw.githubusercontent.com/GSansigolo/Pirates-vs-Kights/master/Images/Layout/Font%20Logo%20Uncial%20Antique.png)
-
 ## Pirates Vs Knights
 Created by **Gabriel Sansigolo**
 
@@ -14,9 +12,9 @@ This project consists of the development of the Card Game call 'Pirates Vs Knigh
 **Twitter:** https://twitter.com/G_Sansigolo <br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)<br><br>
+## Exemples:<br>
 
-## Exemples Json:<br>
-
+**Character Card:**
 ```
  {
     "id": "2",
@@ -31,7 +29,7 @@ This project consists of the development of the Card Game call 'Pirates Vs Knigh
 
 ```
 
-
+**Action Card:**
 ```
   {
     "id": "12",
@@ -43,7 +41,7 @@ This project consists of the development of the Card Game call 'Pirates Vs Knigh
 
 ```
 
-
+**Discard Card:**
 ```
   {
     "id": "36",

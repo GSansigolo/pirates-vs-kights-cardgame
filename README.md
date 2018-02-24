@@ -11,7 +11,7 @@ This project consists of the development of the Card Game call 'Pirates Vs Knigh
 **Artstation:** https://www.artstation.com/gsansigolo <br>
 **Twitter:** https://twitter.com/G_Sansigolo <br><br>
 
-![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)<br>
+![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)
 ### Exemples:
 
 **Character Card:**

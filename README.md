@@ -1,4 +1,4 @@
-## Pirates Vs Knights
+# Pirates Vs Knights
 Created by **Gabriel Sansigolo**<br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/PRODUCTION.png?raw=true)<br>
@@ -12,7 +12,7 @@ This project consists of the development of the Card Game call 'Pirates Vs Knigh
 **Twitter:** https://twitter.com/G_Sansigolo <br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)<br>
-# Exemples:
+### Exemples:
 
 **Character Card:**
 ```

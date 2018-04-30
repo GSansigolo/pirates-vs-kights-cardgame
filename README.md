@@ -2,14 +2,16 @@
 Created by **Gabriel Sansigolo**<br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/PRODUCTION.png?raw=true)<br>
-This project consists of the development of the Card Game call 'Pirates Vs Knights'. In this repository, you can find all files related to the non-digital game. Each card here has a high quality image and within the JSON, all data related to that card.<br><br>
+Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in draft form the focus of the game is do actions and answers while battling. In this repository, you can find all files related to the non-digital and digital version.<br><br>
 
-![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/CREATOR.png?raw=true)<br>
-**Gabriel Sansigolo** is a technologist in system analysis and development. Has technician degree in computing with emphasis on web design. Freelance colorist, comic book writer and editor of the Magazine 'Investida'. Currently works in the game The Last Wards and in the podcasts Esper Show and SDL Cast.<br>
+![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/CREATOR.png?raw=true)<br><br>
+**Gabriel Sansigolo** is taking master's degree in Applied Computation by the National Institute of Space Research. Technologist in Analysis and Development of Systems. Has IT Technician for Internet. Has experience in the area of Computer Science. Editor of the magazine 'Investida', Colorist and Game Writer. Currently works in the game The Last Wards and in the podcasts Esper Show and SDL Cast.<br>
 
 **Issuu:** https://issuu.com/gabsansigolo <br>
+**Amazon:** https://goo.gl/pX4aqo <br>
 **Artstation:** https://www.artstation.com/gsansigolo <br>
-**Twitter:** https://twitter.com/G_Sansigolo <br><br>
+**Blog:** https://viveiroartificial.blogspot.com <br>
+**Twitter:** https://twitter.com/G_Sansigolo<br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)
 ### Exemples:
@@ -50,5 +52,17 @@ This project consists of the development of the Card Game call 'Pirates Vs Knigh
     "type": "Discard Card",
     "text": "If you discard this card you may draw card."
   },
+  
+```
 
+**Draft Card:**
+```
+  {
+    "id": "35",
+    "title": "Draft",
+    "color": "Purple",
+    "type": "Draft Card",
+    "text": "Draft this card face up, if you do, you may draw a extra card in your first hand in the game.{This card don't have  effect in the game}."
+},
+  
 ```

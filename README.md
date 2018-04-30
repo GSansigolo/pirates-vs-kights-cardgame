@@ -1,5 +1,5 @@
 # Pirates Vs Knights
-Created by **Gabriel Sansigolo**<br>
+Created by **Gabriel Sansigolo**<br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/PRODUCTION.png?raw=true)<br><br>
 Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in draft form the focus of the game is do actions and answers while battling. In this repository, you can find all files related to the non-digital and digital version.<br><br>
@@ -15,7 +15,7 @@ Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)
 <br><br>
-Here you can see some examples, in json, of the cards. <br>
+Here you can see some examples, in json, of the cards. <br><br>
 **Character Card:**
 ```json
  {
@@ -27,38 +27,38 @@ Here you can see some examples, in json, of the cards. <br>
     "cbs-attack": "3",
     "cbs-armor": "4",
     "cbs-life": "2"
-},
+ },
 ```
 
 **Action Card:**
 ```json
-  {
+ {
     "id": "12",
     "title": "Attack",
     "color": "Green",
     "type": "Action Card",
     "text": "You can attack with target character this turn. The damage is based on the character base status."
-},
+ },
 ```
 
 **Discard Card:**
 ```json
-  {
+ {
     "id": "36",
     "title": "Discard",
     "color": "Magenta",
     "type": "Discard Card",
-    "text": "If you discard this card you may draw card."
-  },
+    "text": "If you discard this card you may draw card." 
+ },
 ```
 
 **Draft Card:**
 ```json
-  {
+ {
     "id": "35",
     "title": "Draft",
     "color": "Purple",
     "type": "Draft Card",
     "text": "Draft this card face up, if you do, you may draw a extra card in your first hand in the game.{This card don't have  effect in the game}."
-},
+ },
 ```

@@ -1,7 +1,7 @@
 # Pirates Vs Knights
 Created by **Gabriel Sansigolo**<br>
 
-![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/PRODUCTION.png?raw=true)<br>
+![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/PRODUCTION.png?raw=true)<br><br>
 Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in draft form the focus of the game is do actions and answers while battling. In this repository, you can find all files related to the non-digital and digital version.<br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/CREATOR.png?raw=true)<br><br>
@@ -14,10 +14,10 @@ Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in
 **Twitter:** https://twitter.com/G_Sansigolo<br><br>
 
 ![image](https://github.com/GSansigolo/The-Last-Wards/blob/master/README.md%20Files/DEVELOP.png?raw=true)
-### Exemples:
-
+<br><br>
+Here you can see some examples, in json, of the cards. <br>
 **Character Card:**
-```
+```json
  {
     "id": "2",
     "title": "Gravos",
@@ -28,11 +28,10 @@ Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in
     "cbs-armor": "4",
     "cbs-life": "2"
 },
-
 ```
 
 **Action Card:**
-```
+```json
   {
     "id": "12",
     "title": "Attack",
@@ -40,11 +39,10 @@ Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in
     "type": "Action Card",
     "text": "You can attack with target character this turn. The damage is based on the character base status."
 },
-
 ```
 
 **Discard Card:**
-```
+```json
   {
     "id": "36",
     "title": "Discard",
@@ -52,11 +50,10 @@ Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in
     "type": "Discard Card",
     "text": "If you discard this card you may draw card."
   },
-  
 ```
 
 **Draft Card:**
-```
+```json
   {
     "id": "35",
     "title": "Draft",
@@ -64,5 +61,4 @@ Pirates vs Knights is a fantasy card game design by Gabriel Sansigolo, played in
     "type": "Draft Card",
     "text": "Draft this card face up, if you do, you may draw a extra card in your first hand in the game.{This card don't have  effect in the game}."
 },
-  
 ```

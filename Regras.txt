@@ -1,0 +1,16 @@
+1. Ambos os jogadores devem ter vinte cartas em seus decks. 
+2. Você puxa cinco cartas para a sua mão inicial.
+3. Você deve escolher um personagem da sua mão e joga-lo para batalhar.
+4. Antes da batalha você pode escolher, para cada um dos seus personagens, deixa-los normais ou virados, um personagem virado não pode atacar.
+5. Caso o defensor esteja virado, para determinar quem ganha compare o ataque do personagem atacante com a defesa do personagem defensor.
+6. Caso o defensor esteja normal, para determinar quem ganha compare o ataque do personagem atacante com a vida do personagem defensor.
+7. Se o seu ataque for maior o personagem inimigo é destruído.
+8. Mesmo que o outro seja destruído, se o personagem defensor estiver virado e o ataque do personagem defensor for maior que a vida do personagem atacante o personagem atacante também é destruído.
+9. Quando a batalha termina, compre uma carta e encerre o turno.
+10. As regras anteriores se repetem até que ambos os decks estejam vazios.
+11. Ao final do jogo cada jogar conta o número  de personagem na mesa. Quem tiver mais será o vencedor.
+12. Se você tiver uma ação, equipamento ou  terreno na sua mão, você pode coloca-los em campo virado para baixo.
+13. Você sempre pode ativar uma ação, equipamento ou  terreno durante qualquer momento da batalha virando-o para cima.
+14. Você pode usar cartas de descarte a qualquer momento da batalha.
+15. Quando uma ação  é utilizado, a carta é descartada.
+16. Quando um dos decks estiver vazio o jogo continua até que o outro deck também esteja.

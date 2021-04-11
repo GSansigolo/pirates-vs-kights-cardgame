@@ -1,0 +1,4 @@
+print
+r x3 
+i x4 
+c x6 
